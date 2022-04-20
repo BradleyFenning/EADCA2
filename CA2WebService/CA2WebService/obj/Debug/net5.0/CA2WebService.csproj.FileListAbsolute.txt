@@ -1,0 +1,158 @@
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\appsettings.Development.json
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\appsettings.json
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.exe
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.deps.json
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.runtimeconfig.json
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.runtimeconfig.dev.json
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\ref\CA2WebService.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.pdb
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.csproj.AssemblyReference.cache
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.AssemblyInfoInputs.cache
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.AssemblyInfo.cs
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.csproj.CoreCompileInputs.cache
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.MvcApplicationPartsAssemblyInfo.cs
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\scopedcss\bundle\CA2WebService.styles.css
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\staticwebassets\CA2WebService.StaticWebAssets.Manifest.cache
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.RazorTargetAssemblyInfo.cache
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.csproj.CopyComplete
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\ref\CA2WebService.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.pdb
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.genruntimeconfig.cache
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\College\Semester 8\EAD\CA2\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\ref\CA2WebService.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.pdb
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\appsettings.json
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.exe
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.deps.json
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.runtimeconfig.json
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.runtimeconfig.dev.json
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.pdb
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\scopedcss\bundle\CA2WebService.styles.css
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\staticwebassets\CA2WebService.StaticWebAssets.Manifest.cache
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.RazorTargetAssemblyInfo.cache
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.csproj.CopyComplete
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.genruntimeconfig.cache
+C:\Users\Mohamed\Desktop\CA2WebService\CA2WebService\obj\Debug\net5.0\refint\CA2WebService.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\ref\CA2WebService.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.pdb
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\appsettings.json
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.exe
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.deps.json
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.runtimeconfig.json
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.runtimeconfig.dev.json
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\ref\CA2WebService.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\CA2WebService.pdb
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\scopedcss\bundle\CA2WebService.styles.css
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\staticwebassets\CA2WebService.StaticWebAssets.Manifest.cache
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.RazorTargetAssemblyInfo.cache
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.csproj.CopyComplete
+C:\Users\Mohamed\Desktop\New folder\CA2WebService\CA2WebService\obj\Debug\net5.0\CA2WebService.genruntimeconfig.cache
